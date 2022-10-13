@@ -4,6 +4,7 @@
 
 <h2>Description</h2>
 Inline policies are policies that you create and manage and embed directly into a single user, group, or role.
+
 Sometimes you want to creating users to launch EC2 instances.. for an Auditor for example
 So the user would be able to do a cloud assesment then you have to To create  a read-only file whereby they can only see and cannot make changes
 IAM 
