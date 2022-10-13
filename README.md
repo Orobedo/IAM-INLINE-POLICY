@@ -1,4 +1,4 @@
-<h1> - INLINE POLICY(Creating a read only permission)</h1>
+<h1> - ADDING INLINE POLICY(Creating a read only permission)</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
