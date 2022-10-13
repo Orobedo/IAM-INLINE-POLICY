@@ -3,6 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
+Inline policies are policies that you create and manage and embed directly into a single user, group, or role.
 Sometimes you want to creating users to launch EC2 instances.. for an Auditor for example
 So the user would be able to do a cloud assesment then you have to To create  a read-only file whereby they can only see and cannot make changes
 IAM 
@@ -84,12 +85,15 @@ Then I Clicked on "Review Policy" <br/>
 <br />
 <br />
 
- Wipe the existing code and past the new code i got from IAM Documentation
-Then I Clicked on "Review Policy" <br/>
-<img src="https://i.imgur.com/HHDJlDR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Input a name for your new polciy and click on "Create Policy" <br/>
+<img src="https://i.imgur.com/Vtd7LII.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
+ Inline Policy successfully created! <br/>
+<img src="https://i.imgur.com/PgZuI0F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 </p>
 
 <!--
