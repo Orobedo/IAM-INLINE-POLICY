@@ -47,12 +47,46 @@ Permissions can be set either by adding the user to an existing group or by clic
 <img src="https://i.imgur.com/tNUveZI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Review all that you've inputed and click on "Create User" if satisfied  <br/>
-<img src="https://i.imgur.com/fRr9JHJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Review all you have inputed AWS will alert you that you the user has no permissions.
+Don't worry about that click on "Create user"  <br/>
+<img src="https://i.imgur.com/GV4tbIm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- User successfuly created and Permission granted!. Ensure to click on "Download .csv" to get the direct link for log in for the user or  better still send as E-mail directly to the Employee  <br/>
-<img src="https://i.imgur.com/vr61DfO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ User successfuly created!. Ensure to click on "Download .csv" to get the direct link for log in for the user or  better still send as E-mail directly to the Employee then click on "Close"  <br/>
+<img src="https://i.imgur.com/qLNN0Ot.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+ Select the ExternalAuditor you just created by double clicking on it <br/>
+<img src="https://i.imgur.com/pm3Hp2P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ 
+ Inline policies are policies that you create and manage and embed directly into a single user, group, or role, So click on add inline polcy <br/>
+<img src="https://i.imgur.com/BR8UvQ4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+ I decided to use JSON CODE so I Clicked on JSON <br/>
+<img src="https://i.imgur.com/HHDJlDR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+ Go to Identity and access management Documentation and search for a polciy that allows read-only access to the IAM CONSOLE and copy the JSON code and go back to your console <br/>
+<img src="https://i.imgur.com/lIoFowa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+ 
+ Wipe the existing code and past the new code i got from IAM Documentation
+Then I Clicked on "Review Policy" <br/>
+<img src="https://i.imgur.com/Q2cmqL6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+ Wipe the existing code and past the new code i got from IAM Documentation
+Then I Clicked on "Review Policy" <br/>
+<img src="https://i.imgur.com/HHDJlDR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
